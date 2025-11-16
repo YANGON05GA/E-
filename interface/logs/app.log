@@ -1,0 +1,8 @@
+2025-11-14 00:46:13,493 INFO manual_bill saved bill_id=6271B69A-0784-47A5-B958-930679A38B46 user_id=replace-with-user-id category=餐饮 nw_type=None amount=1.0
+2025-11-14 11:22:44,766 INFO manual_bill saved bill_id=A13FBEF1-7E6F-41A5-9B9B-7978A0328566 user_id=replace-with-user-id category=餐饮 nw_type=None amount=111.0
+2025-11-14 11:30:48,952 INFO manual_bill saved bill_id=11D367CA-EF32-4B84-B6D2-C2E183A39955 user_id=replace-with-user-id category=餐饮 nw_type=None amount=1.0
+2025-11-14 12:52:48,209 INFO manual_bill saved bill_id=F115EC2C-27B6-4902-9C34-191771EACDC2 user_id=replace-with-user-id category=餐饮 nw_type=None amount=1.0
+2025-11-14 13:16:34,030 INFO manual_bill saved bill_id=DB6C3C96-77E8-4A6E-A486-5677A1ADF4B4 user_id=replace-with-user-id category=休闲娱乐 nw_type=None amount=1.0
+2025-11-16 15:02:40,809 INFO manual_bill saved bill_id=994C2F56-B8B7-4777-A6BC-86998F72F1C6 user_id=replace-with-user-id category=休闲娱乐 nw_type=None amount=2100.0
+2025-11-16 17:55:57,734 INFO manual_bill saved bill_id=69CC5AE7-9BED-464A-8B01-5ED1AC691CE2 user_id=replace-with-user-id category=餐饮 nw_type=None amount=121.0
+2025-11-16 17:56:18,113 INFO manual_bill saved bill_id=B02EF320-25FF-476B-A661-692CB26611C6 user_id=replace-with-user-id category=购物 nw_type=None amount=2199.0

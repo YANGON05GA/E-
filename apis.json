@@ -1,0 +1,32 @@
+{
+  "VLLM": {
+    "type": "qwen-vl",
+    "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+    "key_env": "sk-743f259c9ace4fe3a5e1194f78558b24"
+  },
+  "QWEN_TURBO": {
+    "type": "qwen-text",
+    "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+    "key_env": "sk-06bf27456be64f9f8ae88feb6f9cb7f0"
+  },
+  "LLM": {
+    "type": "qwen-vl",
+    "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+    "key_env": "sk-d3e52d546e854c93ab5840dbc0288278"
+  },
+  "BAIDU": {
+    "type": "baidu-ocr",
+    "auth": {
+      "api_key": "MzJlotzp16jmPSBV95KWGK5p",
+      "secret_key": "hp3lZIPj5Qldyqz8XYa5SNRFIcJK6CH0",
+      "access_token": "24.4393b0cf71d4ca5b0d143a048dd26cc8.2592000.1765879255.282335-120615355",
+      "expires_at": 1765879195,
+      "fetched_at": 1763287255
+    },
+    "token": {
+      "access_token": "24.82b4982f8f7d872e58cd0164a2649ff1.2592000.1764780027.282335-120615355",
+      "expires_at": 1764779967,
+      "fetched_at": 1762188027
+    }
+  }
+}
